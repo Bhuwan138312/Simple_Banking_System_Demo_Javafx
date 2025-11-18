@@ -1,2 +1,1 @@
-# Simple_Banking_System_Demo_Javafx
- A simple JavaFX desktop banking demo that supports signup, login, dashboard, deposits, withdrawals, savings interest, and transaction history. Data is stored locally in accounts.csv and transactions.csv (demo only — passwords saved in plaintext)
+Digital Banking System — JavaFX app using local CSV storage. Users can sign up, log in, view a dashboard, deposit, withdraw, add interest (savings), and see recent transactions or all accounts. accounts.csv and transactions.csv are auto-created; ensure read/write access. Run BankingApplication.main() to launch. Passwords stored plaintext (demo only).
